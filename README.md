@@ -12,5 +12,5 @@ These instructions will help you set up and run the project on your local machin
 
 ### Installation
 
-1. cd client and run npm install
+1. run npm install
 2. run npm run dev
