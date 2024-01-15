@@ -1,0 +1,9 @@
+#root {
+  padding: 20px;
+  display: flex;
+  width: 100vw;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}
